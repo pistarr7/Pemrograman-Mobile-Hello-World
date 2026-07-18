@@ -1,4 +1,4 @@
-# 📱 Hello World — Pemrograman Mobile Android
+# 📱 Hello World — Pemrograman Mobile
 ## Tugas Minggu 1 | Semester 6
 
 ---
