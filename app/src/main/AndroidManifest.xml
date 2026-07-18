@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    MINGGU 1 — AndroidManifest.xml
+    File deklarasi aplikasi Android. Setiap Activity, Permission,
+    dan metadata aplikasi harus didaftarkan di sini.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@android:mipmap/sym_def_app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@android:mipmap/sym_def_app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HelloWorld">
+
+        <!--
+            Activity adalah satu layar dalam aplikasi.
+            android:exported="true" wajib untuk entry point (LAUNCHER activity).
+        -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.HelloWorld">
+            <intent-filter>
+                <!--
+                    MAIN + LAUNCHER menandai ini sebagai entry point
+                    yang muncul di app launcher (icon di home screen)
+                -->
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

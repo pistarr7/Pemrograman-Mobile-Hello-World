@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    MINGGU 1 — Resource Strings
+    Semua teks yang tampil di UI sebaiknya disimpan di sini
+    untuk mendukung localization (multi bahasa).
+-->
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="greeting_title">Hello World!</string>
+    <string name="greeting_subtitle">Pemrograman Mobile Android — Minggu 1</string>
+    <string name="input_hint">Masukkan nama kamu</string>
+    <string name="button_greet">Sapa Aku!</string>
+</resources>
