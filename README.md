@@ -4,10 +4,10 @@
 ---
 
 ## 👤 Profil Mahasiswa
-- **Nama:** Willy Rafael  
-- **NIM:** [Masukkan NIM Anda di sini]  
+- **Nama:** Willy Rafael F. Silalahi
+- **NIM:** 23083000168  
 - **Matakuliah:** Pemrograman Mobile  
-- **Instansi:** [Masukkan Nama Universitas]
+- **Instansi:** Universitas Merdeka Malang
 
 ---
 
