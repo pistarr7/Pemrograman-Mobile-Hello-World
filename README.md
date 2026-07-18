@@ -31,11 +31,9 @@ Fokus utama project ini adalah mempelajari dasar-dasar UI deklaratif, State Mana
 
 | Fitur | Screenshot | Penjelasan |
 |-------|------------|------------|
-| **Form Utama** | ![Screenshot Form](screenshots/form_main.png) | Tampilan awal aplikasi dengan header icon dan dua field input. |
-| **Validasi Error** | ![Screenshot Error](screenshots/form_error.png) | Tampilan saat user menekan submit namun data kosong/salah (Border merah & pesan error). |
-| **Hasil Submit** | ![Screenshot Result](screenshots/form_result.png) | Tampilan kartu hasil di bagian bawah setelah tombol submit ditekan dengan data valid. |
-
-> *Catatan: Silakan masukkan file gambar di folder `screenshots/` agar muncul di tabel atas.*
+| **Form Utama** | <img src="screenshots/form_main.png" width="200"> | Tampilan awal aplikasi dengan header icon dan dua field input. |
+| **Validasi Error** | <img src="screenshots/form_error.png" width="200"> | Tampilan saat user menekan submit namun data kosong/salah (Border merah & pesan error). |
+| **Hasil Submit** | <img src="screenshots/form_result.png" width="200"> | Tampilan kartu hasil di bagian bawah setelah tombol submit ditekan dengan data valid. |
 
 ---
 
