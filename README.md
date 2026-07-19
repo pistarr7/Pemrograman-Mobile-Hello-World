@@ -5,7 +5,8 @@
 
 ## 👤 Profil Mahasiswa
 - **Nama:** Willy Rafael F. Silalahi
-- **NIM:** 23083000168  
+- **NIM:** 23083000168
+- **Kelas** 6A2 
 - **Matakuliah:** Pemrograman Mobile  
 - **Instansi:** Universitas Merdeka Malang
 
